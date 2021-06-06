@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+<img src="./public/screen.png">
+# Getting Started with Boogle
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
